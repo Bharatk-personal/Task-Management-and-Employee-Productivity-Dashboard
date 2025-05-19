@@ -1,0 +1,11 @@
+{
+  "name": "task-management-and-employee-productivity-dashboard",
+  "version": "1.0.0",
+  "description": "A task management application with employee productivity feature added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bharat",
+  "license": "ISC"
+}
